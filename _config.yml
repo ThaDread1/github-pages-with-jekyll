@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Thoughts of Tha Dread1 title
+author: Tha Dread1
+email: thadread12018@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My blog will discuss politics of the day and deal with the issue of social justice. To any people today are suffering from the very people that we are suppose to trust. I will do my best to expose the viper on Capital Hill. And praise the ones that defend the rights of the American citizens of this great Land. Come and take a journey with me...
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: Code Fiend
+github_username:  Tha Dread1
+
 
 show_excerpts: true # set to false to remove excerpts on the homepage
